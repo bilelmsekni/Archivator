@@ -53,6 +53,7 @@ To view a copy of this license, visit [ http://creativecommons.org/licenses/by/3
 ===============
 
 Bilel Msekni (msekni.bilel@gmail.com)
+LinkedIn: https://fr.linkedin.com/in/bilelmsekni
 
    6. To do
 ===============
