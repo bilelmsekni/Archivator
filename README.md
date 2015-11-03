@@ -32,11 +32,11 @@ Table of Contents
   3. Examples
 ===============
 
-.\Archivator -FilesPath "D:\Extracts\" -FileExtension "*.txt" -DaysToKeep 3 -ArchivePath "D:\Extracts\Archive" 
+* .\Archivator -FilesPath "D:\Extracts\" -FileExtension "*.txt" -DaysToKeep 3 -ArchivePath "D:\Extracts\Archive" 
 
 This command will zip all txt files in D:\Extracts older than from J-3 and move them to D:\Extracts\Archive\dd-MM-YY
 
-.\Archivator -FilesPath "D:\Extracts\" -FileExtension "*.log" -DaysToKeep 0" 
+* .\Archivator -FilesPath "D:\Extracts\" -FileExtension "*.log" -DaysToKeep 0" 
 
 This command will zip all log files in D:\Extracts older than from J and put them inside a folder named dd-MM-YY => D:\Extracts\dd-MM-YY
 
