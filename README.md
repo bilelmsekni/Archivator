@@ -16,7 +16,7 @@ Table of Contents
 ===============
 
 * Download 7Zip from this the official link: http://www.7-zip.org/
-* Install it to your C:\Program Files\7-Zip\ 
+* Install it to your C:\Program Files\7-Zip\
 
   2. Prepare Archivator script
 ===============
