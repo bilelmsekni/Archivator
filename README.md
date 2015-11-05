@@ -1,6 +1,7 @@
 Archivator
 ===============================
 A simple script to archive files using 7z
+
 This script is based on a script written by Paul Cunningham: http://exchangeserverpro.com/powershell-script-iis-logs-cleanup
 
 Table of Contents
