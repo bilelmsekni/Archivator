@@ -14,13 +14,13 @@ Table of Contents
   5. Contacts
   6. To do
   
-  1. Install 7Zip on your machine
+Install 7Zip on your machine
 ===============
 
 * Download 7Zip from this the official link: http://www.7-zip.org/
 * Install it to your C:\Program Files\7-Zip\
 
-  2. Prepare Archivator script
+Prepare Archivator script
 ===============
 
 * If you have chosen another directory for your 7zip installation, you need to update the script file.
@@ -31,7 +31,7 @@ Table of Contents
 
 * Confirm change by typing yes
 
-  3. Examples
+Examples
 ===============
 
 * .\Archivator -FilesPath "D:\Extracts\" -FileExtension "*.txt" -DaysToKeep 3 -ArchivePath "D:\Extracts\Archive" 
@@ -42,7 +42,7 @@ This command will zip all txt files in D:\Extracts older than from J-3 and move 
 
 This command will zip all log files in D:\Extracts older than from J and put them inside a folder named dd-MM-YY => D:\Extracts\dd-MM-YY
 
-   4. Licensing
+Licensing
 ===============
 
 Archivator is licensed under a Creative Commons Attribution 3.0 Unported License.
@@ -51,14 +51,9 @@ Archivator is licensed under a Creative Commons Attribution 3.0 Unported License
 
 To view a copy of this license, visit [ http://creativecommons.org/licenses/by/3.0/deed.en_US ].
 
-   5. Contacts
+Contacts
 ===============
 
 Bilel Msekni (msekni.bilel@gmail.com)
 
 LinkedIn: https://fr.linkedin.com/in/bilelmsekni
-
-   6. To do
-===============
-
-...
